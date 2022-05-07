@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+
+.go-pro-cardholder{
+    margin-top : 30%;
+    margin-left : 20px;
+}
+.go-pro{
+    background-color: rgb(80, 43, 184);
+    border-radius: 35px;
+    height : 17vh;
+    width : 10.5vw;
+    padding-top: 12px;
+}
+.go-pro .content .gopro-title{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color : rgb(241, 235, 235);
+    padding-left : 40px;
+    padding-top : 1px;
+}
+.go-pro .content .gopro-para{
+    color : rgb(241, 235, 235);
+    font-family: 'Poppins', sans-serif;
+    font-size: 11.4px;
+    font-weight :400;
+    width : 65%;
+    text-align: left;
+    padding-left: 40px;
+    padding-top : 10px;
+}
+.go-pro .button-section{
+    padding-left : 45%;
+    padding-top: 10%;
+}
+.go-pro .button-section .button{
+    background-color: #fff;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    height : 3.5vh;
+    width : 4.3vw;
+}
+.go-pro .button-section .button-value{
+    color : rgb(80, 43, 184);
+    font-family: 'Poppins', sans-serif;
+    font-size: 11.3px;
+    margin-top : -25px;
+    padding-left: 12px;
+    font-weight:600;
+}

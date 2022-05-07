@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+body{
+    background-color: #dfe3ec;
+}
+.profile-card{
+    background-color: #fff;
+    opacity : 0.93;
+    border-radius: 15px;
+}
+.profile-card h1{
+    color: #424242;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+.profile-card p{
+    font-family: 'Poppins', sans-serif;
+    color:#afafaf;
+    font-size: 15px;
+    margin-top : -5%;
+}
+.profile-holder{
+    padding: 15px;
+}
+.profile-card {
+    padding-left: 30px;
+    line-height:200%;
+    width : 9%;
+    height : 20vh;
+    padding-top: 12px;
+    text-align: left;
+}
+.total-projects-count p{
+    font-weight: bold;
+    color:#000;
+    font-size : 13px;
+    width : 1%;
+    line-height: 1.5;
+    padding-top : 45px;
+}
+.total-revenue-count p{
+    color : #000;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 1.5;
+    padding-left : 58%;
+    margin-top : -20%;
+}
+.title1 p{
+    color : #afafaf;
+    font-size: 13px;
+    margin-left: -4%;
+    line-height: 1.5;
+   
+}
+.title2 p{
+    color : #afafaf;
+    font-size: 13px;
+    margin-left: 58%;
+    margin-top: -20%;
+    line-height: 1.5;
+}   
