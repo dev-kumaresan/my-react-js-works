@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+
+.ProjectDetails-card-holder{
+    margin-left : 33%;
+    margin-top : 1%;
+}
+.project-details-card{
+    background-color: #fff;
+    opacity : 0.93;
+    border-radius: 35px;
+    height : 24vh;
+    width : 10.7vw;
+}
+.project-details-card .content-holder .project-details-content .project-header{
+    font-family: 'Poppins', sans-serif;
+    color:#afafaf;
+    font-size: 14px;
+    padding-top : 30px;
+    padding-left: 25px;
+}
+.project-details-card .content-holder .project-details-content .projector-name{
+    color: #5d57c0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    padding-left: 25px;
+    padding-top: 8px;
+}
+.project-details-card .content-holder .project-details-content .projector-position{
+    color : #afafaf;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    padding-left: 25px;
+    padding-top: 8px;
+}
+.project-details-card .content-holder .project-details-content .project-progress{
+    font-family: 'Poppins', sans-serif;
+    color : #000;
+    font-size: 12px;
+    font-weight: 500;
+    padding-left: 25px;
+    padding-top: 20px;
+}
+.project-details-card .content-holder .percentage-progress .percentage{
+    color : #000;
+    font-weight: bolder;
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    text-align: right;
+    padding-right : 25px;
+    padding-top: 25px;
+}
+.project-details-card .content-holder .percentage-progress .progress-bar
+{
+    margin-left : 12%;
+    margin-top : 2.5%;
+}
+.project-details-card .content-holder .percentage-progress .full
+{
+    width : 8vw;
+    height : 0.9vh;
+    border-radius : 50px;
+    background-color: #eeeeee;
+}
+.project-details-card .content-holder .percentage-progress .full .half{
+    width : 5.5vw;
+    height : 0.9vh;
+    border-radius : 50px;
+    background-color: #5653cd;
+}
+.project-details-card .content-holder .navigation-tap{
+    margin-left : 85%;
+    margin-top : -85%;
+}
+.project-details-card .content-holder .navigation-tap .dots
+{
+    text-align: center;
+    margin-top: 2%;
+    transform: rotate(89deg);
+    -webkit-transform: rotate(89deg);
+}
+.project-details-card .content-holder .navigation-tap .dots .dot1
+{
+    height: 5px;
+    width: 5px;
+    background-color: #000;
+    border-radius: 50%;
+    display: inline-block;
+    
+}
+.project-details-card .content-holder .navigation-tap .dots .dot2
+{
+    height: 5px;
+    width: 5px;
+    background-color: #000;
+    border-radius: 50%;
+    display:inline-block;
+    
+}
+.project-details-card .content-holder .navigation-tap .dots .space
+{
+      display:inline-block;
+      width:3px;
+}
+@media only screen and (max-width : 768px){
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+
+.ProjectDetails-card-holder{
+    margin-left : 2%;
+    margin-top : 4%;
+}
+.project-details-card{
+    background-color: #fff;
+    opacity : 0.93;
+    border-radius: 35px;
+    height : 24vh;
+    width : 25.7vw;
+}
+.project-details-card .content-holder .project-details-content .project-header{
+    font-family: 'Poppins', sans-serif;
+    color:#afafaf;
+    font-size: 14px;
+    padding-top : 30px;
+    padding-left: 25px;
+}
+.project-details-card .content-holder .project-details-content .projector-name{
+    color: #5d57c0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    padding-left: 25px;
+    padding-top: 8px;
+}
+.project-details-card .content-holder .project-details-content .projector-position{
+    color : #afafaf;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    padding-left: 25px;
+    padding-top: 8px;
+}
+.project-details-card .content-holder .project-details-content .project-progress{
+    font-family: 'Poppins', sans-serif;
+    color : #000;
+    font-size: 12px;
+    font-weight: 500;
+    padding-left: 25px;
+    padding-top: 20px;
+}
+.project-details-card .content-holder .percentage-progress .percentage{
+    color : #000;
+    font-weight: bolder;
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    text-align: right;
+    padding-right : 25px;
+    padding-top: 25px;
+}
+.project-details-card .content-holder .percentage-progress .progress-bar
+{
+    margin-left : 23%;
+    margin-top : 2.5%;
+}
+.project-details-card .content-holder .percentage-progress .full
+{
+    width : 16.9vw;
+    height : 0.9vh;
+    border-radius : 50px;
+    background-color: #eeeeee;
+}
+.project-details-card .content-holder .percentage-progress .full .half{
+    width : 13.5vw;
+    height : 0.9vh;
+    border-radius : 50px;
+    background-color: #5653cd;
+}
+.project-details-card .content-holder .navigation-tap{
+    margin-left : 85%;
+    margin-top : -87%;
+}
+.project-details-card .content-holder .navigation-tap .dots
+{
+    text-align: center;
+    margin-top: 2%;
+    transform: rotate(89deg);
+    -webkit-transform: rotate(89deg);
+}
+.project-details-card .content-holder .navigation-tap .dots .dot1
+{
+    height: 5px;
+    width: 5px;
+    background-color: #000;
+    border-radius: 50%;
+    display: inline-block;
+    
+}
+.project-details-card .content-holder .navigation-tap .dots .dot2
+{
+    height: 5px;
+    width: 5px;
+    background-color: #000;
+    border-radius: 50%;
+    display:inline-block;
+    
+}
+.project-details-card .content-holder .navigation-tap .dots .space
+{
+      display:inline-block;
+      width:3px;
+}
+}

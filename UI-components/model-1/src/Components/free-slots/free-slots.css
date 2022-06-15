@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+.FreeSlots-card-holder{
+   margin-left :13%;
+   margin-top : -18.5%; 
+}
+.free-slots-card{
+    background-color: #fff;
+    opacity : 0.93;
+    border-radius: 35px;
+    height : 40vh;
+    width : 18.5vw;
+}

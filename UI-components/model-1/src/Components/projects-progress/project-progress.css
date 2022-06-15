@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+.ProjectProgress-card-holder{
+   margin-left : 45%;
+   margin-top : -12.2%; 
+}
+.project-progress-card{
+    background-color: #fff;
+    opacity : 0.93;
+    border-radius: 35px;
+    height : 24vh;
+    width : 9.5vw;
+}
+.project-progress-card .content-holder .project-progress-content .project-header{
+    font-family: 'Poppins', sans-serif;
+    color:#000;
+    font-size: 12px;
+    padding-top : 30px;
+    padding-left: 25px;
+    font-weight: 500;
+}

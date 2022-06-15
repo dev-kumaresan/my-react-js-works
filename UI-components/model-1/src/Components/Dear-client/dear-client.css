@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+
+.Dear-card-holder{
+    margin-left : 33%;
+    margin-top : -19%;
+}
+.dear-card{
+    background-color: #fff;
+    opacity : 0.93;
+    border-radius: 33px;
+    height : 16vh;
+    width : 20vw;
+}
+.dear-card .content-holder .dear-client-logo .dc-logo{
+    margin-left: 25px;
+    margin-top : 27px;
+}
+.dear-card .content-holder .dear-client-content .dc-heading{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: larger;
+    margin-left : 30%;
+    margin-top : -28%;
+}
+.dear-card .content-holder .dear-client-content .dc-para p{
+    width :60%;
+    line-height: 25px;
+    font-size: 13px;
+    color : #afafaf;
+    margin-left: 31%;
+    font-family: 'Poppins', sans-serif;
+}
+.dear-card .content-holder .down-arrow{
+    margin-left : 92%;
+    margin-top: -27%;
+}
+.dear-card .content-holder .down-arrow .arrow{
+    border: solid black;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+}
+.dear-card .content-holder .down-arrow .down{
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+@media only screen and (max-width : 768px){
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+
+.Dear-card-holder{
+    margin-left : 2%;
+    margin-top : 5%;
+}
+.dear-card{
+    background-color: #fff;
+    opacity : 0.93;
+    border-radius: 33px;
+    height : 16vh;
+    width : 50vw;
+}
+.dear-card .content-holder .dear-client-logo .dc-logo{
+    margin-left: 25px;
+    margin-top : 27px;
+}
+.dear-card .content-holder .dear-client-content .dc-heading{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: larger;
+    margin-left : 30%;
+    margin-top : -28%;
+}
+.dear-card .content-holder .dear-client-content .dc-para p{
+    width :60%;
+    line-height: 25px;
+    font-size: 13px;
+    color : #afafaf;
+    margin-left: 31%;
+    font-family: 'Poppins', sans-serif;
+}
+.dear-card .content-holder .down-arrow{
+    margin-left : 92%;
+    margin-top: -27%;
+}
+.dear-card .content-holder .down-arrow .arrow{
+    border: solid black;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+}
+.dear-card .content-holder .down-arrow .down{
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+}

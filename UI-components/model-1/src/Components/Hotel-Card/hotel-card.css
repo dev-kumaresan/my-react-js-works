@@ -1,0 +1,287 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+
+.Hotel-card-holder{
+     margin-left : 23%;
+     margin-top :  -12%;
+}
+.Hotel-card{
+    background-color: #fff;
+    border-radius: 30px;
+    height : 22vh;
+    width : 8.5vw;
+    padding-top: 12px;
+    margin-top: 7px;
+}
+.Hotel-card .content-holder .Hotel-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16.9px;
+    padding-left: 20px;
+    padding-top: 8px;
+}
+.Hotel-card .content-holder .Hotel-sub-title{
+    color : #afafaf;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-top: 4px;
+}
+.Hotel-card .content-holder .seen-by{
+    color : #afafaf;
+    font-family: 'Poppins', sans-serif;
+    font-size : 9px;
+    font-weight: bold;
+    padding-left : 20px;
+    padding-top: 10px;
+}
+.Hotel-card .content-holder .avatars{
+
+    padding-top : 7px;
+    margin-left: -32px;
+}
+.Hotel-card .content-holder .avatars .avatar-4{
+    margin-left : 42%;
+    margin-top: 4%;
+}
+.Hotel-card .content-holder .avatars .avatar-4 .circle4 .img4{
+    width : 27px;
+    height : 27px;
+    background: rgb(197, 51, 51);
+    border-radius: 50%;  
+    padding-left: 4px;
+    margin-top: 1%; 
+    vertical-align: middle;
+}
+.Hotel-card .content-holder .avatars .avatar-3{
+    margin-left : 34%;
+    margin-top: -18%;
+}
+.Hotel-card .content-holder .avatars .avatar-3 .circle3 .img3{
+    width : 27px;
+    height : 27px;
+    background: rgb(248, 240, 166);
+    border-radius: 50%;  
+    padding-left: 4px;
+    margin-top: 6%; 
+    vertical-align: middle;
+}
+.Hotel-card .content-holder .avatars .avatar-2{
+    margin-left : 25%;
+    margin-top: -18.5%;
+}
+.Hotel-card .content-holder .avatars .avatar-2 .circle2 .img2{
+    width : 27px;
+    height : 27px;
+    background: rgb(176, 214, 209);
+    border-radius: 50%;  
+    padding-left: 4px;
+    margin-top: 6%; 
+    vertical-align: middle;
+}
+.Hotel-buttons-holder .Hotel-button1-holder{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.Hotel-buttons-holder .Hotel-button1-holder .button1{
+    width : 40px;
+    height : 17px;
+    background: #534cbc;
+    border-radius: 30px;  
+    padding-left: 4px;
+    margin-top: 4%; 
+}
+.Hotel-buttons-holder .Hotel-button1-holder .b1c{
+    color : #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size : 9.5px;
+    margin-top: -15px;
+    padding-left: 10px;
+}
+.Hotel-buttons-holder .Hotel-button2-holder{
+    padding-left: 70px;
+    margin-top: -20px;
+}
+.Hotel-buttons-holder .Hotel-button2-holder .button2{
+    width : 36px;
+    height : 14px;
+    background: #fff;
+    border: 2px solid #afafaf;
+    border-radius: 30px;  
+    padding-left: 4px;
+    opacity: 0.3;
+    margin-top: 4%;
+}
+.Hotel-buttons-holder .Hotel-button2-holder .b2c{
+    color : #afafaf;
+    font-family: 'Poppins', sans-serif;
+    font-size : 10px;
+    margin-top: -16px;
+    padding-left: 12px;
+    font-weight: bold;
+}
+.Hotel-buttons-holder .Hotel-button3-holder{
+    margin-left: 12%;
+    padding-top: 3px;
+}
+.Hotel-buttons-holder .Hotel-button3-holder .button3{
+    width : 45px;
+    height : 13px;
+    background: #fff;
+    border: 2px solid #afafaf;
+    border-radius: 30px;  
+    padding-left: 4px;
+    opacity: 0.3;
+    margin-top: 4%;
+}
+.Hotel-buttons-holder .Hotel-button3-holder .b3c{
+    color : #afafaf;
+    font-family: 'Poppins', sans-serif;
+    font-size : 8.5px;
+    margin-top: -15px;
+    padding-left: 5px;
+    font-weight: bold;
+}
+@media only screen and (max-width : 768px){
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+.Hotel-card-holder{
+     margin-left : 26%;
+     margin-top :  -31.2%;
+}
+.Hotel-card{
+    background-color: #fff;
+    border-radius: 30px;
+    height : 22vh;
+    width : 20vw;
+    padding-top: 12px;
+    margin-top: 7px;
+}
+.Hotel-card .content-holder .Hotel-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16.9px;
+    padding-left: 20px;
+    padding-top: 8px;
+}
+.Hotel-card .content-holder .Hotel-sub-title{
+    color : #afafaf;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-top: 4px;
+}
+.Hotel-card .content-holder .seen-by{
+    color : #afafaf;
+    font-family: 'Poppins', sans-serif;
+    font-size : 9px;
+    font-weight: bold;
+    padding-left : 20px;
+    padding-top: 10px;
+}
+.Hotel-card .content-holder .avatars{
+
+    padding-top : 7px;
+    margin-left: -32px;
+}
+.Hotel-card .content-holder .avatars .avatar-4{
+    margin-left : 42%;
+    margin-top: 4%;
+}
+.Hotel-card .content-holder .avatars .avatar-4 .circle4 .img4{
+    width : 27px;
+    height : 27px;
+    background: rgb(197, 51, 51);
+    border-radius: 50%;  
+    padding-left: 4px;
+    margin-top: 1%; 
+    vertical-align: middle;
+}
+.Hotel-card .content-holder .avatars .avatar-3{
+    margin-left : 34%;
+    margin-top: -18%;
+}
+.Hotel-card .content-holder .avatars .avatar-3 .circle3 .img3{
+    width : 27px;
+    height : 27px;
+    background: rgb(248, 240, 166);
+    border-radius: 50%;  
+    padding-left: 4px;
+    margin-top: 6%; 
+    vertical-align: middle;
+}
+.Hotel-card .content-holder .avatars .avatar-2{
+    margin-left : 25%;
+    margin-top: -18.5%;
+}
+.Hotel-card .content-holder .avatars .avatar-2 .circle2 .img2{
+    width : 27px;
+    height : 27px;
+    background: rgb(176, 214, 209);
+    border-radius: 50%;  
+    padding-left: 4px;
+    margin-top: 6%; 
+    vertical-align: middle;
+}
+.Hotel-buttons-holder .Hotel-button1-holder{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.Hotel-buttons-holder .Hotel-button1-holder .button1{
+    width : 40px;
+    height : 17px;
+    background: #534cbc;
+    border-radius: 30px;  
+    padding-left: 4px;
+    margin-top: 4%; 
+}
+.Hotel-buttons-holder .Hotel-button1-holder .b1c{
+    color : #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size : 9.5px;
+    margin-top: -15px;
+    padding-left: 10px;
+}
+.Hotel-buttons-holder .Hotel-button2-holder{
+    padding-left: 70px;
+    margin-top: -20px;
+}
+.Hotel-buttons-holder .Hotel-button2-holder .button2{
+    width : 36px;
+    height : 14px;
+    background: #fff;
+    border: 2px solid #afafaf;
+    border-radius: 30px;  
+    padding-left: 4px;
+    opacity: 0.3;
+    margin-top: 4%;
+}
+.Hotel-buttons-holder .Hotel-button2-holder .b2c{
+    color : #afafaf;
+    font-family: 'Poppins', sans-serif;
+    font-size : 10px;
+    margin-top: -16px;
+    padding-left: 12px;
+    font-weight: bold;
+}
+.Hotel-buttons-holder .Hotel-button3-holder{
+    margin-left: 12%;
+    padding-top: 3px;
+}
+.Hotel-buttons-holder .Hotel-button3-holder .button3{
+    width : 45px;
+    height : 13px;
+    background: #fff;
+    border: 2px solid #afafaf;
+    border-radius: 30px;  
+    padding-left: 4px;
+    opacity: 0.3;
+    margin-top: 4%;
+}
+.Hotel-buttons-holder .Hotel-button3-holder .b3c{
+    color : #afafaf;
+    font-family: 'Poppins', sans-serif;
+    font-size : 8.5px;
+    margin-top: -15px;
+    padding-left: 5px;
+    font-weight: bold;
+}
+}

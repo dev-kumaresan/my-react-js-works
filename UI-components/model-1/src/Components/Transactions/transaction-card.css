@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+
+.Transaction-card-holder{
+    margin-left : 33%;
+    margin-top : -19%;
+}
+.transaction-card{
+    background-color: #fff;
+    opacity : 0.93;
+    border-radius: 33px;
+    height : 30vh;
+    width : 20vw;   
+}
+.transaction-card .content .data{
+    margin-left: -2%;
+}
+.transaction-card .content .data .td-title{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color : #000;
+    padding-top : 8%;
+    padding-left: 10%;
+}
+.transaction-card .content .data .name{
+    font-size: 15.5px;
+    color : #afafaf;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 10%;
+    padding-top: 8px;
+}
+.transaction-card .content .data .balance{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color : #000;
+    padding-top : 10px;
+    padding-left: 10%;
+}
+.transaction-card .content .data .balance-title{
+    color : #afafaf;
+    font-family: 'Poppins', sans-serif;
+    font-size : 11px;
+    padding-left: 10%;
+    padding-top: 2px;
+}
+.transaction-card .content .profile-details .img-bg .img{
+    width : 40px;
+    height : 40px;
+    border-radius: 50%;  
+    margin-left: 80%;
+    position: absolute;
+    top : 27.9%;
+    left : -31%;
+}
+.transaction-card .content .profile-details .pn{
+    font-size: 13px;
+    color : #afafaf;
+    margin-left: 75.5%;
+    margin-top : -6%;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+.circled-arrow{
+    margin-left: 9%;
+    margin-top : 8%;
+}
+.transaction-card .content .profile-images .circled-arrow .circle1{
+    width : 35px;
+    height : 35px;
+    background: black;
+    border-radius: 50%;
+}
+.transaction-card .content .profile-images .circled-arrow .long-right-arrow{
+    margin-top : -7.5%;
+    margin-left : 7px;
+    font-size : 13px;
+    font-weight: bold;
+}
+.transaction-card .content .profile-images .images .image1 .img1{
+    width : 35px;
+    height : 35px;
+    border-radius: 50%;  
+    position : absolute;
+    left : 37.5%;
+    top : 42.9%;
+}
+.transaction-card .content .profile-images .images .image2 .img2{
+    width : 35px;
+    height : 35px;
+    border-radius: 50%;  
+    position : absolute;
+    left : 40.1%;
+    top : 42.9%;
+}
+.transaction-card .content .profile-images .images .image3 .img3{
+    width : 35px;
+    height : 35px;
+    border-radius: 50%;  
+    position : absolute;
+    left : 42.7%;
+    top : 42.9%;
+}
+.transaction-card .content .profile-images .images .image4 .img4{
+    width : 35px;
+    height : 35px;
+    border-radius: 50%;  
+    position : absolute;
+    left : 45.3%;
+    top : 42.9%;
+}
+.transaction-card .content .send-button{
+    margin-top : 13%;
+    margin-left : 77%;
+}
+.transaction-card .content .send-button .send-btn{
+    width : 70px;
+    height : 27px;
+    background: #534cbc;
+    border-radius: 30px;  
+}
+.transaction-card .content .send-button .send-b1c{
+color : #fff;
+font-family: 'Poppins', sans-serif;
+font-size: 12.3px;
+font-weight:500;
+margin-top : -25.5%;
+margin-left : 20%;
+}
+@media only screen and (max-width : 768px){
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+
+.Transaction-card-holder{
+    margin-left : 2%;
+    margin-top : 4%;
+}
+.transaction-card{
+    background-color: #fff;
+    opacity : 0.93;
+    border-radius: 25px;
+    height : 30vh;
+    width : 45vw;   
+}
+.transaction-card .content .data{
+    margin-left: -2%;
+}
+.transaction-card .content .data .td-title{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color : #000;
+    padding-top : 8%;
+    padding-left: 10%;
+}
+.transaction-card .content .data .name{
+    font-size: 15.5px;
+    color : #afafaf;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 10%;
+    padding-top: 8px;
+}
+.transaction-card .content .data .balance{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color : #000;
+    padding-top : 10px;
+    padding-left: 10%;
+}
+.transaction-card .content .data .balance-title{
+    color : #afafaf;
+    font-family: 'Poppins', sans-serif;
+    font-size : 11px;
+    padding-left: 10%;
+    padding-top: 2px;
+}
+.transaction-card .content .profile-details .img-bg .img{
+    width : 40px;
+    height : 40px;
+    border-radius: 50%;  
+    margin-left: 80%;
+    position: absolute;
+    top : 151%;
+    left : -42%;
+    
+    
+}
+.transaction-card .content .profile-details .pn{
+    font-size: 13px;
+    color : #afafaf;
+    margin-left: 75.5%;
+    margin-top : -7%;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+.circled-arrow{
+    margin-left: 9%;
+    margin-top : 8%;
+}
+.transaction-card .content .profile-images .circled-arrow .circle1{
+    width : 35px;
+    height : 35px;
+    background: black;
+    border-radius: 50%;
+}
+.transaction-card .content .profile-images .circled-arrow .long-right-arrow{
+    margin-top : -8%;
+    margin-left : 7px;
+    font-size : 13px;
+    font-weight: bold;
+}
+.transaction-card .content .profile-images .image1 .img1{
+    width : 35px;
+    height : 35px;
+    border-radius: 50%;  
+    position : absolute;
+    left : 13.5%;
+    top : 164.4%;
+}
+.transaction-card .content .profile-images .image2 .img2{
+    width : 35px;
+    height : 35px;
+    border-radius: 50%;  
+    position : absolute;
+    left : 20%;
+    top : 164.4%;
+}
+.transaction-card .content .profile-images .image3 .img3{
+    width : 35px;
+    height : 35px;
+    border-radius: 50%;  
+    position : absolute;
+    left : 26.5%;
+    top : 164.4%;
+}
+.transaction-card .content .profile-images .image4 .img4{
+    width : 35px;
+    height : 35px;
+    border-radius: 50%;  
+    position : absolute;
+    left : 33%;
+    top : 164.4%;
+}
+.transaction-card .content .send-button{
+    margin-top : 16%;
+    margin-left : 75%;
+}
+.transaction-card .content .send-button .send-btn{
+    width : 70px;
+    height : 27px;
+    background: #534cbc;
+    border-radius: 30px;  
+}
+.transaction-card .content .send-button .send-b1c{
+    color : #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12.3px;
+    font-weight:500;
+    margin-top : -26.5%;
+    margin-left : 22%;
+}
+}
