@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200&display=swap');
+.Name{
+    padding-top : 1%;
+    padding-left : 40%; 
+}
+.personal{
+    margin-left: -10%;
+}
+.Name .username{
+    color : #0f73c5;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.Name .degree   
+{
+    color : rgb(97, 94, 94);
+    font-family: 'Poppins', sans-serif;
+    margin-left: -0.1%;
+    font-weight: 400;
+    font-size: smaller;
+}
+.Name .user-position{
+    color : rgb(97, 94, 94);
+    font-family: 'Poppins', sans-serif;
+    margin-left: -1%;
+    font-weight: 400;
+    padding-top: 5px;
+    
+}
+.personal .head{
+    color : #0f73c5;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    margin-left : 20%;
+    padding-top: 2%;
+    text-decoration: underline;
+}
+.personal .details{
+    margin-left : 20.3%;
+    font-size: 14px;
+    color : rgb(97, 94, 94);
+    font-family: 'Poppins', sans-serif;
+}
+.personal .details .address{
+    width : 15%;
+}

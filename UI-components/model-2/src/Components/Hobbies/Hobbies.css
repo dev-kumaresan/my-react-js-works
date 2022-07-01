@@ -1,0 +1,16 @@
+.Hobbies-holder .Hobbies-header .head{
+    color : #0f73c5;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    margin-left : 70%;
+    margin-top: -20.2%;
+    text-decoration: underline;   
+}
+.Hobbies-holder .Hobbies-header .hobbies{
+    margin-left : 69.5%;
+    font-size: 14px;
+    color : rgb(97, 94, 94);
+    font-family: 'Poppins', sans-serif;
+    margin-top: -0.15%;
+}

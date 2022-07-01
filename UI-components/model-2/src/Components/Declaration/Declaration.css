@@ -1,0 +1,16 @@
+.Declaration-holder .Declaration-header .head{
+    color : #0f73c5;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    margin-left : 42%;
+    padding-top: 4.5%;
+    text-decoration: underline;   
+}
+.Declaration-holder .Declaration-header .declaration p{
+    margin-left : 29%;
+    font-size: 14px;
+    color : rgb(97, 94, 94);
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}

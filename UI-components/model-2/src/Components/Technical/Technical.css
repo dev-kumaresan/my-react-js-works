@@ -1,0 +1,19 @@
+.Technical-holder{
+    margin-left: 45%;
+    margin-top : -25.8%;
+}
+.Technical-holder .Technical-header .head{
+    color : #0f73c5;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    margin-left : 10%;
+    padding-top: 2.5%;
+    text-decoration: underline;   
+}
+.Technical-holder .Technical-header .skills{
+    margin-left : 9.2%;
+    font-size: 14px;
+    color : rgb(97, 94, 94);
+    font-family: 'Poppins', sans-serif;
+}

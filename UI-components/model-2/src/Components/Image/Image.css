@@ -1,0 +1,14 @@
+.Image
+{
+    margin-left : 40%;
+    margin-top : 2%;
+}
+.Image .Image-Circle .My-Image
+{
+    width : 200px;
+    height : 200px;
+    border-radius: 50%;  
+    padding-left: 4px;
+    margin-top: 1%; 
+    vertical-align: middle;
+}

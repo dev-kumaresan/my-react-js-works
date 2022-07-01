@@ -1,0 +1,21 @@
+.Reference-holder .Reference-header .head{
+    color : #0f73c5;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    margin-left : 50.8%;
+    padding-top: 12%;
+    text-decoration: underline;    
+}
+.Reference-holder .Reference-header a{
+    margin-left : 57.5%;
+    position : absolute;
+    bottom : 14.1%;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    
+}
+a:hover{
+    color :  #966cdb;
+}

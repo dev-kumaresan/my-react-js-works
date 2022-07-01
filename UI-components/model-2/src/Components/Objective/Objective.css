@@ -1,0 +1,21 @@
+.objective-holder .objective-header .head{
+    color : #0f73c5;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    margin-left : 20%;
+    padding-top: 2%;
+    text-decoration: underline;   
+}
+.objective-holder .objective-header .objective{
+    margin-left : 20.3%;
+    font-size: 14px;
+    color : rgb(97, 94, 94);
+    font-family: 'Poppins', sans-serif;
+}
+.objective-holder .objective-header .objective p{
+    width : 15%;
+}
+.objective-holder{
+    margin-left: -10%;
+}
